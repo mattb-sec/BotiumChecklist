@@ -8,4 +8,8 @@ To elaborate on the risk assessment I performed for Botium Toys, I will now take
 |  |  X| Disaster recovery plans  |
 |  | X | Password policies   |
 |  | X | Separation of duties  |
+| X |  |  Firewall |
+|  | X |  Intrusion Detection System (IDS) |
+|  | X |  Backups |
+| X |  | Antivirus software  |
 
