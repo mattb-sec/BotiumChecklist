@@ -36,3 +36,27 @@ Following up on the risk assessment I performed for Botium Toys, I will now take
 | X |  | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. |
 |  | X | Ensure data is properly classified and inventoried. |
 | X |  | Enforce privacy policies, procedures, and processes to properly document and maintain data. |
+
+# System and Organizations Controls (SOC type 1, SOC type 2)
+
+| Yes        | No         | Best Practice |
+|:-------------|:------------------|:------|
+|  | X |  User access policies are established. |
+|  | X |  Sensitive data (PII/SPII) is confidential/private. |
+| X |  |  Data integrity ensures the data is consistent, complete, accurate, and has been validated. |
+|  | X |  Data is available to individuals authorized to access it. |
+
+# Recommendations
+
+- Implement controls pertaining to least privilege and separation of duty. Customer PII should be stored on an as-needed basis and only be accessible to those who would need to review it.
+
+- Implement data encryption so that stored data can remain secure, even if compromised.
+
+- Employ an intrusion detection system to ensure only authorized connections are on the company network.
+
+- Regularly backup critical data and employ a disaster recovery plan.
+  
+- Enforce stricter password policies and multi-factor authentication to ensure user accounts are secure. Also recommend instruction of proper password hygiene so users have a uniform and secure way to store their passwords, should they forget them.
+
+- Lastly, employ a password management system so the IT team can efficiently address user password issues.
+
